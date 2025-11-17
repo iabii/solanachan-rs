@@ -1,4 +1,4 @@
-# monerochan.rs
+# solanachan.rs
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 > **THE RISC-V PRIVATE PROVING RUNTIME**
 
-**MONEROCHAN.RS** is a **privacy runtime** for executing **RISC-V programs** under **verifiable confidentiality**.  
+**SOLANACHAN.RS** is a **privacy runtime** for executing **RISC-V programs** under **verifiable confidentiality**.  
 It uses **zkSNARK-based proof generation** to prove correct execution of programs without exposing inputs, state, or outputs.  
 
 Inspired by **Monero** and **Zcash**, it extends privacy from *payments* to *computation*, enabling developers to build systems that are both **trustless** and **confidential**.
